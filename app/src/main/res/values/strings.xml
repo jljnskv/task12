@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task12</string>
+    <string name="request_result">"По запросу \"%1$s\" ничего не найдено"</string>
+    <string name="hint_request_result">Здесь будет отображаться результат запроса</string>
+    <string name="hint_search_edit_text">Введите запрос...</string>
+    <string name="cancel_message">Запрос был отменён</string>
+</resources>
